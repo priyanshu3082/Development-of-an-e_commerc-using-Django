@@ -1,8 +1,11 @@
 Development of an E-commerce using Django
+<br>
 Welcome to the repository for the development of an e-commerce platform using Django. This project aims to create a fully functional e-commerce website with various features like user authentication, product listings, shopping cart, and order management.
-
+<br>
 Table of Contents
+<br>
 Introduction
+<br>
 Features
 Technologies Used
 Installation
